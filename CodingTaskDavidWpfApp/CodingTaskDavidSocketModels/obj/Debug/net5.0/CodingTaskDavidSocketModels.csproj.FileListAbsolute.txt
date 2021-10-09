@@ -1,0 +1,12 @@
+C:\Users\kibar.gltkn\Documents\GitHub\CodingTaskDavid\CodingTaskDavidWpfApp\CodingTaskDavidSocketModels\bin\Debug\net5.0\CodingTaskDavidSocketModels.deps.json
+C:\Users\kibar.gltkn\Documents\GitHub\CodingTaskDavid\CodingTaskDavidWpfApp\CodingTaskDavidSocketModels\bin\Debug\net5.0\CodingTaskDavidSocketModels.dll
+C:\Users\kibar.gltkn\Documents\GitHub\CodingTaskDavid\CodingTaskDavidWpfApp\CodingTaskDavidSocketModels\bin\Debug\net5.0\ref\CodingTaskDavidSocketModels.dll
+C:\Users\kibar.gltkn\Documents\GitHub\CodingTaskDavid\CodingTaskDavidWpfApp\CodingTaskDavidSocketModels\bin\Debug\net5.0\CodingTaskDavidSocketModels.pdb
+C:\Users\kibar.gltkn\Documents\GitHub\CodingTaskDavid\CodingTaskDavidWpfApp\CodingTaskDavidSocketModels\obj\Debug\net5.0\CodingTaskDavidSocketModels.csproj.AssemblyReference.cache
+C:\Users\kibar.gltkn\Documents\GitHub\CodingTaskDavid\CodingTaskDavidWpfApp\CodingTaskDavidSocketModels\obj\Debug\net5.0\CodingTaskDavidSocketModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kibar.gltkn\Documents\GitHub\CodingTaskDavid\CodingTaskDavidWpfApp\CodingTaskDavidSocketModels\obj\Debug\net5.0\CodingTaskDavidSocketModels.AssemblyInfoInputs.cache
+C:\Users\kibar.gltkn\Documents\GitHub\CodingTaskDavid\CodingTaskDavidWpfApp\CodingTaskDavidSocketModels\obj\Debug\net5.0\CodingTaskDavidSocketModels.AssemblyInfo.cs
+C:\Users\kibar.gltkn\Documents\GitHub\CodingTaskDavid\CodingTaskDavidWpfApp\CodingTaskDavidSocketModels\obj\Debug\net5.0\CodingTaskDavidSocketModels.csproj.CoreCompileInputs.cache
+C:\Users\kibar.gltkn\Documents\GitHub\CodingTaskDavid\CodingTaskDavidWpfApp\CodingTaskDavidSocketModels\obj\Debug\net5.0\CodingTaskDavidSocketModels.dll
+C:\Users\kibar.gltkn\Documents\GitHub\CodingTaskDavid\CodingTaskDavidWpfApp\CodingTaskDavidSocketModels\obj\Debug\net5.0\ref\CodingTaskDavidSocketModels.dll
+C:\Users\kibar.gltkn\Documents\GitHub\CodingTaskDavid\CodingTaskDavidWpfApp\CodingTaskDavidSocketModels\obj\Debug\net5.0\CodingTaskDavidSocketModels.pdb
